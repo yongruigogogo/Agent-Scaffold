@@ -1,4 +1,4 @@
-A # Agent-Scaffold
+# Agent-Scaffold
 
 #### The scaffolding code for V1.0 includes the following modules:
 
