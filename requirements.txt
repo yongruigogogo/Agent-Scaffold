@@ -1,0 +1,7 @@
+colorlog==6.10.1
+grpcio==1.76.0
+json_repair==0.54.3
+langchain_openai==1.1.6
+protobuf==6.33.2
+PyYAML==6.0.3
+SQLAlchemy==2.0.45

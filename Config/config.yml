@@ -1,0 +1,8 @@
+#API接口参数
+llm:
+  model_name: Qwen/Qwen3-14B
+  base_url: https://api.siliconflow.cn/v1
+
+#sqllite参数
+sqllite:
+  db_name: ["user_db"]
